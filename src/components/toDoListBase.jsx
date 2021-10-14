@@ -1,26 +1,26 @@
 export const toDoListBase = [
   {
-    title: "to do title1",
+    title: "read book",
     description: "description1",
-    done: true
+    done: false
   },
   {
-    title: "to do title2",
+    title: "sleep",
     description: "description2",
     done: true
   },
   {
-    title: "to do title3",
+    title: "go shopping",
     description: "description3",
-    done: false
+    done: true
   },
   {
-    title: "to do title4",
+    title: "feed dog",
     description: "description4",
     done: false
   },
   {
-    title: "to do title5",
+    title: "go to cinema",
     description: "description5",
     done: false
   },
